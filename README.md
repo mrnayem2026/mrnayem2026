@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mostafizur Rahman Nayem</h1>
 <h3 align="center">A passionate Web Application developer from Bangladesh</h3>
-
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrnayem2026&label=Profile%20views&color=0e75b6&style=flat" alt="mrnayem2026" /> </p>
 
 - 🌱 I’m currently learning **Data Structures and algorithm with JavaScript**
