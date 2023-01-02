@@ -28,7 +28,7 @@ So,you can find me here (📧Email: mrnayem4403@gmail.com )
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,ts,nodejs,mongodb,firebase,react,redux,html,css,sass,bootstrap,tailwind,git,github,stackoverflow,vscode,vite,xd,figma,ps,pr,)](https://skillicons.dev)
 
-- 🔭 I’m currently working on my team project. 
+
 - 🌱 I’m currently learning  Data Structures and algorithm with JavaScript 
 - 💬 Ask me about JavaScript 
 - 📫 How to reach me: mrnayem4403@gmail.com 
