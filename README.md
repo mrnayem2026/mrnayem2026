@@ -2,8 +2,6 @@
 #### A passionate Web Application developer from Bangladesh
 ![A passionate Web Application developer from Bangladesh](https://media.licdn.com/dms/image/D5616AQH9c5NtsMrHlg/profile-displaybackgroundimage-shrink_350_1400/0/1670677230575?e=1678320000&v=beta&t=d1iSOmSGscR1-p2uTmVCMwhjagcQ0mgSbljiA4P-s1k)
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrnayem2026&label=Profile%20views&color=0e75b6&style=flat" alt="mrnayem2026" /> </p>
 
 🤵I'm a front-end JavaScript developer and MERN stack expert
 with over 3 years of experience building real-world applications. 
@@ -45,16 +43,4 @@ So,you can find me here (📧Email: mrnayem4403@gmail.com )
 <a href="https://www.youtube.com/c/mostafizur rahman nayem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mostafizur rahman nayem" height="30" width="40" /></a>
 </p>  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/mrnayem2026)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mostafizur-rahman-nayem-081a9320a//)  
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/mrnayem2026)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/mrnayem2026&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/mrnayem2026)  
-
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/mrnayem2026)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/mrnayem2026)  
-
-![Profile views](https://gpvc.arturio.dev/https://github.com/mrnayem2026)  
