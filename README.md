@@ -41,6 +41,5 @@ So,you can find me here (📧Email: mrnayem4403@gmail.com )
 <a href="https://fb.com/mostafizur rahman nayem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mostafizur rahman nayem" height="30" width="40" /></a>
 <a href="https://instagram.com/mrnayem4403" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrnayem4403" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/mostafizur rahman nayem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mostafizur rahman nayem" height="30" width="40" /></a>
-</p>  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/mrnayem2026)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mostafizur-rahman-nayem-081a9320a//)  
 
 
