@@ -50,4 +50,4 @@ So,you can find me here (📧Email: mrnayem4403@gmail.com )
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrnayem2026&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ####  Most used languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrnayem2026)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrnayem2026&langs_count=10&hide=PowerShell,c,Batchfile)](https://github.com/anuraghazra/github-readme-stats)
