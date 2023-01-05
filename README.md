@@ -4,7 +4,7 @@
 
 
 🤵I'm a front-end JavaScript developer and MERN stack expert
-with over 3 years of experience building real-world applications. 
+with over 2 years plus of experience building real-world applications. 
 My goal is to help you solve your business (or something else ) problems,
 no matter how big or small.
 
