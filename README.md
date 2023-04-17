@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Mostafizur Rahman Nayem
 ## A passionate Web Application developer from Bangladesh
-![A passionate Web Application developer from Bangladesh](https://media.licdn.com/dms/image/D5616AQH9c5NtsMrHlg/profile-displaybackgroundimage-shrink_350_1400/0/1670677230575?e=1678320000&v=beta&t=d1iSOmSGscR1-p2uTmVCMwhjagcQ0mgSbljiA4P-s1k)
+![A passionate Web Application developer from Bangladesh](https://www.linkedin.com/in/mostafizur-rahman-nayem-081a9320a/overlay/background-image/)
 
 
 🤵I'm a front-end JavaScript developer and MERN stack expert
