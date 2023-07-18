@@ -22,16 +22,16 @@ or building customer-facing applications.
 You deserve someone who will go above and beyond with every project,
 from conception to implementation. That's why I'm here!
 
-So,you can find me here (📧Email: mrnayem4403@gmail.com )
+So, you can find me here (📧Email: mrnayem2026@gmail.com )
 
 <h3 align="left">Languages and Tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,ts,nodejs,mongodb,firebase,react,redux,html,css,sass,bootstrap,tailwind,git,github,stackoverflow,vscode,vite,xd,figma,ps,pr,)](https://skillicons.dev)
 
 
-- 🌱 I’m currently learning  Data Structures and algorithm with JavaScript 
+- 🌱 I’m currently learning  Data Structures and algorithms with JavaScript 
 - 💬 Ask me about JavaScript 
-- 📫 How to reach me: mrnayem4403@gmail.com 
+- 📫 How to reach me: mrnayem2026@gmail.com 
 - ⚡ Fun fact: I think I am a really funny person 
 
 
