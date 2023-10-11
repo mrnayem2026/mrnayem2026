@@ -39,13 +39,13 @@ So, you can find me here (📧Email: mrnayem2026@gmail.com )
 <br/>
 
 <p align="center">
-<a href="https://twitter.com/mrnayem4403" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrnayem4403" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mostafizur rahman nayem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostafizur rahman nayem" height="30" width="40" /></a>
-<a href="https://fb.com/mostafizur rahman nayem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mostafizur rahman nayem" height="30" width="40" /></a>
-<a href="https://instagram.com/mrnayem4403" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrnayem4403" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@Handyprogrammer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mostafizur rahman nayem" height="30" width="40" /></a>
+<a href="https://twitter.com/mrnayem4403" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrnayem4403" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mostafizur rahman nayem" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostafizur rahman nayem" height="30" width="40" /></a>
+<a href="https://fb.com/mostafizur rahman nayem" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mostafizur rahman nayem" height="30" width="40" /></a>
+<a href="https://instagram.com/mrnayem4403" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrnayem4403" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@Handyprogrammer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mostafizur rahman nayem" height="30" width="40" /></a>
 
-# My GitHub activity is below
+# My GitHub activity is bellow
 <br/>
 
 <div align="center">
@@ -68,7 +68,3 @@ So, you can find me here (📧Email: mrnayem2026@gmail.com )
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical">
 </div>
-
-
-
-
