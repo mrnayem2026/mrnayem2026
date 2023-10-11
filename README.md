@@ -27,7 +27,7 @@ So, you can find me here (📧Email: mrnayem2026@gmail.com )
 <h1 align="left">Technologies that I know:</h1>
 <br />
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,ts,nodejs,mongodb,firebase,react,redux,html,css,sass,bootstrap,tailwind,git,github,stackoverflow,vscode,vite,xd,figma,ps,pr,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,c,cpp,py,nodejs,express,mongodb,mysql,firebase,react,nextjs,redux,html,css,sass,bootstrap,tailwind,netlify,git,github,stackoverflow,vscode,vite,xd,figma,ps,pr,)](https://skillicons.dev)
 
 
 - 🌱 I’m currently learning  SaaS [Software as a service] 
@@ -68,3 +68,7 @@ So, you can find me here (📧Email: mrnayem2026@gmail.com )
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical">
 </div>
+
+
+
+
