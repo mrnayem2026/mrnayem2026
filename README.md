@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Mostafizur Rahman Nayem
 ## A passionate Web Application developer from Bangladesh
-![A passionate Web Application developer from Bangladesh](https://media.licdn.com/dms/image/D5616AQH9c5NtsMrHlg/profile-displaybackgroundimage-shrink_350_1400/0/1670677230575?e=1688601600&v=beta&t=-TfgeECiNv7qCZVyPBpnR9eO4peCcp5ZUmoAnGk8mR4)
+![A passionate Web Application developer from Bangladesh](https://media.licdn.com/dms/image/D5616AQH9c5NtsMrHlg/profile-displaybackgroundimage-shrink_350_1400/0/1670677230575?e=1702512000&v=beta&t=wv2bepkLMEXbbRw1L_ZKI50I6hXmj6E_dooZdI_g4_U)
 
 
 🤵I'm a front-end JavaScript developer and MERN stack expert
@@ -24,18 +24,18 @@ from conception to implementation. That's why I'm here!
 
 So, you can find me here (📧Email: mrnayem2026@gmail.com )
 
-<h3 align="left">Languages and Tools:</h3>
+<h1 align="left">Languages and Tools:</h1>
+<br />
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,ts,nodejs,mongodb,firebase,react,redux,html,css,sass,bootstrap,tailwind,git,github,stackoverflow,vscode,vite,xd,figma,ps,pr,)](https://skillicons.dev)
 
 
-- 🌱 I’m currently learning  Data Structures and algorithms with JavaScript 
+- 🌱 I’m currently learning  SaaS [Software as a service] 
 - 💬 Ask me about JavaScript 
-- 📫 How to reach me: mrnayem2026@gmail.com 
-- ⚡ Fun fact: I think I am a really funny person 
+- 📫 How to reach me: mrnayem2026@gmail.com  
 
 
-<h3 align="left">Connect with me:</h3>
+<h1 align="left">Connect with me:</h1>
 <p align="left">
 <a href="https://twitter.com/mrnayem4403" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrnayem4403" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mostafizur rahman nayem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostafizur rahman nayem" height="30" width="40" /></a>
@@ -43,8 +43,13 @@ So, you can find me here (📧Email: mrnayem2026@gmail.com )
 <a href="https://instagram.com/mrnayem4403" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrnayem4403" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/mostafizur rahman nayem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mostafizur rahman nayem" height="30" width="40" /></a>
 
-### My GitHub activity is bellow
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mrnayem2026&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+# My GitHub activity is bellow
+<br/>
+
+![](https://github-readme-stats.vercel.app/api?username=mrnayem2026&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mrnayem2026&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrnayem2026&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ### My GitHub statistics is bellow
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrnayem2026&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
