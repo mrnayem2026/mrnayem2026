@@ -24,7 +24,7 @@ from conception to implementation. That's why I'm here!
 
 So, you can find me here (📧Email: mrnayem2026@gmail.com )
 
-<h1 align="left">Languages and Tools:</h1>
+<h1 align="left">Technologies that I know:</h1>
 <br />
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,ts,nodejs,mongodb,firebase,react,redux,html,css,sass,bootstrap,tailwind,git,github,stackoverflow,vscode,vite,xd,figma,ps,pr,)](https://skillicons.dev)
@@ -38,37 +38,37 @@ So, you can find me here (📧Email: mrnayem2026@gmail.com )
 <h1 align="left">Connect with me:</h1>
 <br/>
 
-<p align="center">
+< align="center">
 <a href="https://twitter.com/mrnayem4403" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrnayem4403" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mostafizur rahman nayem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostafizur rahman nayem" height="30" width="40" /></a>
 <a href="https://fb.com/mostafizur rahman nayem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mostafizur rahman nayem" height="30" width="40" /></a>
 <a href="https://instagram.com/mrnayem4403" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrnayem4403" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@Handyprogrammer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mostafizur rahman nayem" height="30" width="40" /></a>
 
-# My GitHub activity is bellow
+# My GitHub activity is below
 <br/>
 
-<p align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=mrnayem2026&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mrnayem2026&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrnayem2026&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrnayem2026&theme=radical&hide_border=false&include_all_commits=false&count_private=false"><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrnayem2026&theme=radical&hide_border=false"><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrnayem2026&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+</div>
 
 ### 🔝 Top Contributed Repo
 <br/>
 
-<p align="center">
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=mrnayem2026&limit=5&theme=algolia&combine_all_yearly_contributions=true">
+</div>
 
-![](https://github-contributor-stats.vercel.app/api?username=mrnayem2026&limit=5&theme=algolia&combine_all_yearly_contributions=true)
-</p>
 
 ### ✍️ Random Dev Quote
 <br/>
-<p align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-</p>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical">
+</div>
+
 
 
 
