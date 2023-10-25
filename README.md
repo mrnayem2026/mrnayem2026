@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Mostafizur Rahman Nayem</h1>
 <h2 align="center">A passionate Web Application developer.</h2>
 
-![A passionate Web Application developer.](https://media.licdn.com/dms/image/D5616AQH9c5NtsMrHlg/profile-displaybackgroundimage-shrink_350_1400/0/1670677230575?e=1702512000&v=beta&t=wv2bepkLMEXbbRw1L_ZKI50I6hXmj6E_dooZdI_g4_U)
+![A passionate Web Application developer.](https://media.licdn.com/dms/image/D5616AQH19ZI_-yqjxg/profile-displaybackgroundimage-shrink_350_1400/0/1698209006260?e=1703721600&v=beta&t=5tAfU9DpyTcaimnk1lOg_sq-kD7w6muxVeaPtcyNeeo)
 
 
 🤵I'm a front-end Nextjs developer and MERN stack expert
