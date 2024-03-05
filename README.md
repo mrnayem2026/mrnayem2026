@@ -1,9 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Mostafizur Rahman Nayem</h1>
 <h2 align="center">A passionate Web Application developer.</h2>
 
-<div style="background-image: url('https://twitter.com/mrnayem4403/header_photo'); background-size: cover; height: 300px; text-align: center; color: white; padding: 50px;">
-    <p>Welcome to my GitHub profile!</p>
-</div>
+![A passionate Web Application developer.](https://twitter.com/mrnayem4403/header_photo)
 
 
 🤵I'm a front-end Nextjs developer and MERN stack expert
