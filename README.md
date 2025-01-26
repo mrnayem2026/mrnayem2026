@@ -3,7 +3,7 @@
 
 
 
-![A passionate Web Application developer.](https://pbs.twimg.com/profile_banners/1515184331249319938/1720672907/1500x500)
+![A passionate Web Application developer.](https://pbs.twimg.com/profile_banners/1515184331249319938/1737863082/1500x500)
 
 
 🤵I'm a front-end Developer (Full Stack). 
